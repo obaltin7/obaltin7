@@ -4,7 +4,7 @@
 
 <div align="center">
   <br>
-  <img src="https://github.com/user-attachments/assets/52f549f6-2b1f-4c14-bf79-9fc0e994684a" width="220" height="220" style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 15px rgba(0,255,255,0.5);" />
+  <img src="https://github.com/user-attachments/assets/6359d679-6fc7-4c5a-af4b-75eebe6c4ef1" width="220" height="220" style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 15px rgba(0,255,255,0.5);" />
 
   <h1>Hi there, I'm Onur Berke Altın 👋</h1>
   
